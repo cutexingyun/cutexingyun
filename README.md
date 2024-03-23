@@ -2,7 +2,7 @@
 - 👀 I’m interested in pvz&mc
 - 🌱 I’m currently learning java&c++&python
 - 📫 How to reach me 邮箱：hgw234567hgw@163.com
-- 😄 Pronouns: he
+- 😄 Pronouns: it
 - ⚡ Fun fact: 哈哈哈哈
 
 <!---
